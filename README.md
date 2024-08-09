@@ -1,5 +1,5 @@
 <h1 align="center"> Cultiva 🌱 </h1>
-Este site foi feito para mostrar nosso mais novo projeto de agricultura inteligente o "cultiva", aqui você pode encontrar todas informações sobre ele.
+  Este site foi feito para mostrar nosso mais novo projeto de agricultura inteligente o "cultiva", aqui você pode encontrar todas informações sobre ele.
 <p align="center">
 <img loading="lazy" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img loading="lazy" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -7,11 +7,12 @@ Este site foi feito para mostrar nosso mais novo projeto de agricultura intelige
 </p>  
 
 ## O que é o Cultiva? ❓
-O Cultiva é basicamente um protótipo de robótica que utiliza vários componentes eletrônicos em sua construção:
+  O Cultiva é basicamente um protótipo de robótica que utiliza vários componentes eletrônicos em sua construção:
 ![esquema](https://github.com/user-attachments/assets/c5879af3-7a6a-446e-a675-104aa2082c82)
 
 ## Como funciona? ❓
-O sensor NPK é inserido no solo onde o mesmo emite sinais elétricos por dentro da terra, estes sinais então são coletados e interpretados pelo nosso conversor MAX 485 que transfere os dados binários para texto humanamente legível.
+  O sensor NPK é inserido no solo onde o mesmo emite sinais elétricos por dentro da terra, estes sinais então são coletados e interpretados pelo nosso conversor MAX 485 que transfere os dados binários para texto humanamente legível.
+
 <img align='center' width="20%" src="https://github.com/user-attachments/assets/bedf9001-a659-44bd-921b-fec81a18215c"/>
 
 ## Sobre o website 🌐
