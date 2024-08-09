@@ -13,10 +13,12 @@ nav {
   font-size: 4em;
   font-family: 'Roboto Slab', serif;
   font-weight: 700;
+  color: #39B54A;
   margin: 0;
   position: absolute;
   top: 50%;
   left: 5%;
+  filter: drop-shadow(2px 4px 6px black);
   transform: translateY(-50%);
 }
 
