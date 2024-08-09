@@ -1,4 +1,4 @@
-# Cultiva 🌱
+<h1 align="center"> #Cultiva 🌱 </h1>
 
 Este site foi feito para mostrar nosso mais novo projeto de agricultura inteligente o "cultiva", aqui você pode encontrar todas informações sobre ele.
 
