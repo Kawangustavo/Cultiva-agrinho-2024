@@ -1,5 +1,5 @@
-@import url("/styles/home.css"); 
-@import url("/styles/sobre.css"); 
+@import url("home.css"); 
+@import url("sobre.css"); 
 
 html {
     scroll-behavior: smooth;
