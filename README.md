@@ -33,4 +33,4 @@ Todas imagens e recursos visuais no site são originais:
 </p>
 
 
-## Calculadora e MRV 
+## Calculadora e MRV ℹ
