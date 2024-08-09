@@ -41,19 +41,20 @@ nav {
 .slides {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 20%;
   width: 100%;
   height: 100%;
   overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .slides img {
-  width: 50%;
-  transition: 150ms ease;
-}
-
-.slide {
-  position: relative;
-  left: 45%;
-  top: 25%;
+  width: 40%;
+  height: auto;
+  max-width: none;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center;
 }
