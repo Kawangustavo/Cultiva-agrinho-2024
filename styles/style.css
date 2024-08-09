@@ -1,6 +1,7 @@
 @import url("/styles/home.css"); 
 @import url("/styles/sobre.css"); 
 
+
 html {
     scroll-behavior: smooth;
 }
