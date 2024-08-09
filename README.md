@@ -34,7 +34,13 @@ Todas imagens e recursos visuais no site são originais:
 
 
 ## Calculadora e MRV ℹ
-Como mencionado anteriormente nosso protótipo mede alguuns dados para serem usados para calcular a fertilidade do solo testado:
+Como mencionado anteriormente, nosso protótipo mede alguuns dados para serem usados para calcular a fertilidade do solo testado:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d1dade58-f1c8-4b45-87b6-48ef77643260" />
 </p>
+Com estes dados coletados você mesmo pode checar a fertilidade do solo, usando nossa "calculadora de fertilidade": 
+<p align="center">
+  <img width="20%" src="https://github.com/user-attachments/assets/26e2268e-2992-4c50-8a80-b97b086c5dbc" />
+  Apenas preencha os campos requisitados conforme a imagem acima
+</p>
+
