@@ -11,7 +11,7 @@
 ![esquema](https://github.com/user-attachments/assets/c5879af3-7a6a-446e-a675-104aa2082c82)
 
 ## Como funciona? ❓
-  O sensor NPK é inserido no solo onde o mesmo emite sinais elétricos por dentro da terra, estes sinais então são coletados e interpretados pelo nosso conversor MAX 485 que transfere os dados binários para texto humanamente legível.
+  O sensor NPK é inserido no solo onde o mesmo emite sinais elétricos por dentro da terra, estes sinais são coletados e interpretados pelo conversor MAX 485 que transfere os dados binários para texto humanamente legível.
 
 <p align="center">
 <img width="20%" src="https://github.com/user-attachments/assets/bedf9001-a659-44bd-921b-fec81a18215c"/>
@@ -52,7 +52,7 @@ Com estes dados coletados você mesmo pode checar a fertilidade do solo, usando 
 <p align="center">
     <img width="70%" src="https://github.com/user-attachments/assets/fc2f156e-de0b-42de-980c-333cfedbe5b7" />
 </p>
-O manual de referência de valores foi criado para pessoas visualizarem os valores ideias de cada parâmetro, por exemplo, supomos que o usuário fez uma análise e nos resultados consta que o potássio não foi atingido, e ele deseja saber qual seria a quantidade ideal do químico, para isto basta procurar a categoria "Qual a quantidade ideal de macronutrientes? (NPK)" no manual: 
+O manual de referência de valores foi criado para pessoas visualizarem os valores ideais de cada parâmetro, por exemplo, supomos que o usuário fez uma análise e nos resultados consta que o potássio não foi atingido, e ele deseja saber qual seria a quantidade ideal do químico, para isto basta procurar a categoria "Qual a quantidade ideal de macronutrientes? (NPK)" no manual: 
 <p align="center">
     <img width="600" src="https://github.com/user-attachments/assets/c369b941-d514-4a6e-87ae-6839eea2927d">
 </p>
