@@ -13,6 +13,6 @@
 ## Como funciona? ❓
   O sensor NPK é inserido no solo onde o mesmo emite sinais elétricos por dentro da terra, estes sinais então são coletados e interpretados pelo nosso conversor MAX 485 que transfere os dados binários para texto humanamente legível.
 
-<img align='center' width="20%" src="https://github.com/user-attachments/assets/bedf9001-a659-44bd-921b-fec81a18215c"/>
+<img align="center" width="20%" src="https://github.com/user-attachments/assets/bedf9001-a659-44bd-921b-fec81a18215c"/>
 
 ## Sobre o website 🌐
