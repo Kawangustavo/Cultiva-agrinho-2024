@@ -48,13 +48,15 @@ Com estes dados coletados você mesmo pode checar a fertilidade do solo, usando 
 </p>
 <p align="center"> Depois basta usar o botão "calcular" e os resultados aparecerão de forma automática</p>
 
-<p>MRV<</p>
+<p>MRV</p>
 O manual de referência de valores foi criado para pessoas visualizarem os valores ideias de cada parâmetro, por exemplo, supomos que o usuário fez uma análise e nos resultados consta que o potássio não foi atingido, e ele deseja saber qual seria a quantidade ideal do químico, para isto basta procurar a categoria "Qual a quantidade ideal de macronutrientes? (NPK)" no manual: 
 <p align="center">
     <img width="600" src="https://github.com/user-attachments/assets/c369b941-d514-4a6e-87ae-6839eea2927d">
 </p>
 
 Para acessar o documento, basta clicar no icone de informação no canto superior direito da página:
+<img width="946" src="https://github.com/user-attachments/assets/66760180-d143-4215-8e27-0948c3d85dbb">
+
 
 
 
