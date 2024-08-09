@@ -9,6 +9,7 @@
 ## O que é o Cultiva? ❓
   O Cultiva é basicamente um protótipo de robótica que utiliza vários componentes eletrônicos em sua construção:
 ![esquema](https://github.com/user-attachments/assets/c5879af3-7a6a-446e-a675-104aa2082c82)
+![image](https://github.com/user-attachments/assets/d1dade58-f1c8-4b45-87b6-48ef77643260)
 
 ## Como funciona? ❓
   O sensor NPK é inserido no solo onde o mesmo emite sinais elétricos por dentro da terra, estes sinais então são coletados e interpretados pelo nosso conversor MAX 485 que transfere os dados binários para texto humanamente legível.
