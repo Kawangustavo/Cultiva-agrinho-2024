@@ -40,7 +40,9 @@ Como mencionado anteriormente, nosso protótipo mede alguuns dados para serem us
 </p>
 Com estes dados coletados você mesmo pode checar a fertilidade do solo, usando nossa "calculadora de fertilidade": 
 <p align="center">
-  <img width="70" src="https://github.com/user-attachments/assets/26e2268e-2992-4c50-8a80-b97b086c5dbc" />
+  <img width="70%" src="https://github.com/user-attachments/assets/26e2268e-2992-4c50-8a80-b97b086c5dbc" />
   Apenas preencha os campos requisitados conforme a imagem acima
+  <img width="70%" src="https://github.com/user-attachments/assets/2e04d4af-139b-4a40-ba44-f4961701b704" />
+  Depois basta usar o botão "calcular" e os resultados aparecerão de forma automática
 </p>
 
