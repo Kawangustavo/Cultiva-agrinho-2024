@@ -18,7 +18,7 @@
 </p>
 
 ## Sobre o website 🌐
-# Navegação
+<p font-size="2rem" font-weight="bold">Navegação</p>
 O site possui construção simples para navegar entre as páginas apenas clique em um dos textos presente na parte superior da página: 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/85bdc317-4d69-40c6-9301-72c81020efbd" />
