@@ -18,7 +18,7 @@ nav {
   position: absolute;
   top: 50%;
   left: 5%;
-  filter: drop-shadow(2px 4px 6px black);
+  filter: drop-shadow(2px 4px 6px #000);
   transform: translateY(-50%);
 }
 
@@ -30,11 +30,11 @@ nav {
   position: absolute;
   bottom: 10%;
   left: 17%;
-  color: #fff;
+  color: var(--cor-branco);
   transform: translateX(-50%);
   border: 10px solid rgb(88, 0, 199);
   padding: 10px 20px;
-  font-size: 1.2rem;
+  font-size: var(--fonte-legenda);
   border-radius: 2rem;
   background-color: rgba(112, 0, 255, 0.87);
   cursor: pointer;

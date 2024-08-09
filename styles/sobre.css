@@ -21,8 +21,8 @@
 }
 
 .conteiner h1 {
-  color: #fff;
-  font-size: 2rem;
+  color: var(--cor-branco);
+  font-size: var(--fonte-titulo);
   font-family: 'Roboto Mono', monospace;
   font-weight: 500;
   text-align: left;
@@ -33,7 +33,7 @@
 }
 
 h2, h3 {
-  font-size: 2.5rem;
+  font-size: var(--fonte-titulo);
   font-family: 'Roboto Mono', monospace;
   font-weight: 500;
   text-align: center;
@@ -58,7 +58,7 @@ h2, h3 {
 
 
 .grid-conteiner p {
-  font-size: 2rem;
+  font-size: var(--fonte-subtitulo);
   font-family: 'Roboto Mono', monospace;
   font-weight: 400;
   text-align: left;
@@ -75,7 +75,7 @@ h2, h3 {
   grid-column: 2 / 3;
   object-fit: contain;
   grid-row: 1 / 2;
-  background-color: lightgray;
+  background-color: #d3d3d3;
   display: flex;
   justify-content: center;
   align-items: center;
