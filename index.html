@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/Cultiva-main/styles/style.css">
+    <link rel="icon" type="image/x-icon" href="Cultiva-main/images/favcom.png">
+    <title>Calculadora de Fertilidade</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <img src="/Cultiva-main/images/logo.svg" alt="Logo" class="icone logo">
+            <ul>
+                <li><a href="/Cultiva-main/src/home.html">Home</a></li>
+                <li><a href="/Cultiva-main/src/sobre.html">Sobre o Projeto</a></li>
+                <li><a href="/Cultiva-main/index.html">Calculadora</a></li>
+            </ul>
+            <a href="https://drive.google.com/file/d/135b-ohlNSNiGnfOZEzKXkUg0Ff74xTfH/view?usp=sharing" target="_blank">
+                <img src="/Cultiva-main/images/info.svg" alt="Informações" class="icone info">
+            </a>
+        </nav>
+    </header>
+    
+    <main>
+        <section class="calculadora">
+            <h1>Calculadora de Fertilidade</h1>
+            <div class="grid">
+                <div>
+                    <label for="nitrogenio">Nitrogênio</label>
+                    <input type="number" id="nitrogenio" placeholder="mg/kg">
+                </div>
+                <div>
+                    <label for="fosforo">Fósforo</label>
+                    <input type="number" id="fosforo" placeholder="mg/kg">
+                </div>
+                <div>
+                    <label for="potassio">Potássio</label>
+                    <input type="number" id="potassio" placeholder="mg/kg">
+                </div>
+                <div>
+                    <label for="eletrocondutividade">Eletrocondutividade</label>
+                    <input type="number" id="eletrocondutividade" placeholder="Insira o valor aqui:">
+                </div>
+                <div>
+                    <label for="ph">pH</label>
+                    <input type="number" id="ph" placeholder="Insira o valor aqui:">
+                </div>
+                <div>
+                    <label for="temperatura">Temperatura</label>
+                    <input type="number" id="temperatura" placeholder="Cº">
+                </div>
+                <div class="umidade-centralizada">
+                    <label for="umidade">Umidade</label>
+                    <input type="number" id="umidade" placeholder="%">
+                </div>
+            </div>
+            <button type="submit" class="botao" id="calcular">Calcular</button>
+        </section>
+        
+        <section class="resultado">
+            <h2>Resultados</h2>
+            <ul id="resultado">
+            </ul>
+        </section>
+    </main>
+    
+    <script src="/Cultiva-main/scripts/calculadora.js"></script>
+</body>
+</html>

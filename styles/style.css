@@ -1,0 +1,213 @@
+@import url('/Cultiva-main/styles/home.css'); /* Ajuste o caminho se necessário */
+@import url('/Cultiva-main/styles/sobre.css'); /* Ajuste o caminho se necessário */
+
+html {
+    scroll-behavior: smooth;
+}
+
+.oculto {
+    opacity: 0;
+    transform: translateX(-100%);
+    transition: opacity 250ms ease, transform 250ms ease;
+}
+
+.visivel {
+    opacity: 1;
+    transform: translateX(0);
+    transition: ease-in-out 250ms;
+}
+
+body {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    overflow-x: hidden;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    background-color: #001219;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    transition: 200ms ease-in-out;
+    padding: 0 2rem; 
+}
+
+nav img.logo {
+    height: 4.5rem; 
+    margin: 13px 0 1rem 3rem;
+    transition: height 200ms ease-in-out;
+    cursor: pointer;
+}
+
+nav img.logo:hover {
+    height: 5rem;
+    filter: drop-shadow(0 0 0.75rem rgb(0, 255, 38));
+}
+
+nav img.info {
+    width: 2rem;
+    height: 2rem;
+    margin: 10px 60px;
+    cursor: pointer;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 2rem;
+    margin: 0;
+    padding: 0;
+    flex: 1;
+}
+
+nav ul li {
+    margin: 0;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+    font-size: 1.25rem;
+    transition: font-size 150ms ease-in-out;
+}
+
+.ativo {
+    background-color: transparent;
+    transition: 200ms ease-in-out;
+}
+
+.remover {
+    display: none;
+}
+
+.mudacor {
+    filter: grayscale(100%) brightness(0%) contrast(100%);
+}
+
+.calculadora {
+    padding: 5rem 1.2rem;
+}
+
+.calculadora h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4rem;
+}
+
+.grid div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.grid input {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-align: center;
+    outline: none;
+}
+
+.grid label {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.umidade-centralizada {
+    grid-column: 2 / 3;
+    grid-row: 3;
+    justify-self: center;
+    padding-bottom: 1.5rem;
+}
+
+.botao {
+    margin-top: 20px;
+    padding: 10px 20px;
+    display: block;
+    margin: auto;
+    font-size: 1.2em;
+    color: white;
+    background-color: #aaa;
+    border: none;
+    outline: 0.5rem solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 250ms ease-in-out;
+}
+
+.botao:hover {
+    background-color: #0056b3;
+}
+
+.resultado {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    padding-bottom: 3rem;
+}
+
+.resultado ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.resultado li {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.atingido {
+    color: #04c104; 
+}
+
+.nao-atingido {
+    color: #be0606; 
+}
+
+span.fertilidade-Muito-fertil {
+    color: #1e1ed5; 
+    font-size: 1.2rem;
+}
+
+span.fertilidade-Fertil {
+    color: #04c104; 
+    font-size: 1.2rem;
+}
+
+span.fertilidade-Mediana {
+    color: #efef16; 
+    font-size: 1.2rem;
+}
+
+span.fertilidade-Infertil {
+    color: #ff0000; 
+    font-size: 1.2rem;
+}
