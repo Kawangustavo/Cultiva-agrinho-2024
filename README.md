@@ -18,8 +18,8 @@
 </p>
 
 ## Sobre o website 🌐
-#Navegação
+# Navegação
 O site possui construção simples para navegar entre as páginas apenas clique em um dos textos presente na parte superior da página: 
 <p align="center">
-![image](https://github.com/user-attachments/assets/85bdc317-4d69-40c6-9301-72c81020efbd)
+<img src="https://github.com/user-attachments/assets/85bdc317-4d69-40c6-9301-72c81020efbd" />
 </p>
