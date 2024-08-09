@@ -18,8 +18,19 @@
 </p>
 
 ## Sobre o website 🌐
-<p font-size="2rem" font-weight="bold">Navegação</p>
+<p>Navegação</p>
 O site possui construção simples para navegar entre as páginas apenas clique em um dos textos presente na parte superior da página: 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/85bdc317-4d69-40c6-9301-72c81020efbd" />
 </p>
+
+<p>Recursos</p>
+Todas imagens e recursos visuais no site são originais:
+<p align="center">
+  <img widht="70%" src="https://github.com/user-attachments/assets/7820187b-6916-4399-a535-4a7e540b62c0" />
+  <img widht="70%" src="https://github.com/user-attachments/assets/bfbd9ead-3eeb-42fa-a06f-11032aca9e97" />
+  <img widht="70%" src="https://github.com/user-attachments/assets/b9e7d9ff-2a46-4253-80bb-6534b28e167d" />
+</p>
+
+
+## Calculadora e MRV 
