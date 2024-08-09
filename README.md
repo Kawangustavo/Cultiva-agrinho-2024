@@ -1,9 +1,8 @@
-<h1 align="center"> #Cultiva 🌱 </h1>
-
+<h1 align="center"> Cultiva 🌱 </h1>
 Este site foi feito para mostrar nosso mais novo projeto de agricultura inteligente o "cultiva", aqui você pode encontrar todas informações sobre ele.
-
-
-
+<p align="center">
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</p>  
 
 ## O que é o Cultiva? ❓
 O Cultiva é basicamente um protótipo de robótica que utiliza vários componentes eletrônicos em sua construção:
