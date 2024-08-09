@@ -1,7 +1,7 @@
 <h1 align="center"> Cultiva 🌱 </h1>
 Este site foi feito para mostrar nosso mais novo projeto de agricultura inteligente o "cultiva", aqui você pode encontrar todas informações sobre ele.
 <p align="center">
-<img loading="lazy" src="<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>  
 
 ## O que é o Cultiva? ❓
