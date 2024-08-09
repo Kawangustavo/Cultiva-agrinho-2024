@@ -1,5 +1,5 @@
-@import url('/Cultiva-main/styles/home.css'); /* Ajuste o caminho se necessário */
-@import url('/Cultiva-main/styles/sobre.css'); /* Ajuste o caminho se necessário */
+@import url('home.css'); /* Ajuste o caminho se necessário */
+@import url('sobre.css'); /* Ajuste o caminho se necessário */
 
 html {
     scroll-behavior: smooth;
