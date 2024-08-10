@@ -1,18 +1,15 @@
 var slideIndex = 0;
+carrosel();
 
 function carrosel() {
-  var slides = document.getElementsByClassName("slide");
-  for (var i = 0; i < slides.length; i++) {
-    slides[i].classList.remove("active");
+  var i;
+  var x = document.getElementsByClassName("slide");
+  for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";
   }
   slideIndex++;
-  if (slideIndex > slides.length) {
-    slideIndex = 1;
-  }
-  slides[slideIndex - 1].classList.add("active");
+  if (slideIndex > x.length) {slideIndex = 1}
   x[slideIndex-1].style.display = "block";
+  x[slideIndex-1].style.display = "transition 200ms ease";
   setTimeout(carrosel, 2000);
 }
-
-carrosel();
