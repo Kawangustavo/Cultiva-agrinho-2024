@@ -1,3 +1,6 @@
+@import url("home.css"); 
+@import url("sobre.css"); 
+
 :root {
     --cor-branco: #fff;
     --cor-preto: #000;
@@ -5,9 +8,6 @@
     --fonte-subtitulo: 1.8rem;
     --fonte-legenda: 1.2rem;
 }
-
-@import url("home.css"); 
-@import url("sobre.css"); 
 
 html {
     scroll-behavior: smooth;
