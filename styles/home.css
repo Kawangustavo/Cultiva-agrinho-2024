@@ -13,7 +13,6 @@ nav {
   font-size: 4em;
   font-family: 'Roboto Slab', serif;
   font-weight: 700;
-  color: #39B54A;
   margin: 0;
   position: absolute;
   top: 50%;
@@ -24,6 +23,7 @@ nav {
 
 .conteiner h1 span {
   font-size: 4.5rem;
+  color: #39B54A;
 }
 
 .conteiner button {
